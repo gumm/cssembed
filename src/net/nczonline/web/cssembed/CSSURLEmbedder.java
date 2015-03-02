@@ -61,6 +61,7 @@ public class CSSURLEmbedder {
         imageTypes.add("jpeg");
         imageTypes.add("gif");
         imageTypes.add("png");
+        imageTypes.add("svg");
     }        
     
     private boolean verbose = false;

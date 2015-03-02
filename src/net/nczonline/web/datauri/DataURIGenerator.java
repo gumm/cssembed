@@ -50,6 +50,7 @@ public class DataURIGenerator {
         binaryTypes.put("jpg", "image/jpeg");
         binaryTypes.put("png", "image/png");
         binaryTypes.put("jpeg", "image/jpeg");   
+        binaryTypes.put("svg", "image/svg+xml");
         
         textTypes.put("htm", "text/html");
         textTypes.put("html", "text/html");
